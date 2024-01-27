@@ -295,3 +295,9 @@ p {
     margin-bottom: 0;
   }
 }
+
+.icon-holder i {
+  margin-top: .3rem;
+  margin-left: .1rem;
+  font-size: .9rem;
+}
