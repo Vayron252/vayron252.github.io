@@ -301,3 +301,14 @@ p {
   margin-left: .1rem;
   font-size: .9rem;
 }
+.contact-list a {
+  font-size: .8rem;
+  margin-left: .3rem;
+}
+.contact-list li {
+  display: flex;
+  align-items: center;
+}
+.contact-container {
+  padding: 30px 0 30px 30px !important;
+}
