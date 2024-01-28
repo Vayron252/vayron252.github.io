@@ -312,3 +312,12 @@ p {
 .contact-container {
   padding: 30px 0 30px 30px !important;
 }
+.skillset .item {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  height: 34px;
+  align-items: center;
+}
+.level-title {
+  width: 100% !important;
+}
